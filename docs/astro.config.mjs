@@ -12,6 +12,7 @@ export default defineConfig({
 					label: 'セットアップ',
 					items: [
 						{ label: 'Astroプロジェクトの作成', slug: 'setup/initialize' },
+						{ label: 'テンプレートの中身', slug: 'setup/basic-template' },
 					],
 				},
 				{
